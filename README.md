@@ -30,6 +30,7 @@ When the robot starts moving it accelerates rapidly because it speed it’s prop
 # Mission planning
 We are going to move the base to the destination of the cube  and then grab the cube rotate 90 degrees, go to the point that the cube has to be placed and release the cube.
 
+
 https://user-images.githubusercontent.com/79518257/195633254-693c03ce-035f-4609-bfba-0c1d552961d7.mp4
 
 
